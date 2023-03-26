@@ -145,7 +145,7 @@ When you import Bootstrap into your website, you will have a new set of componen
 
 #### The NavBar
 
-This is so popular that it’s in the menu of 99% of all websites.  It normally has the logo of the company and a series of links – depending on each website’s business logic.
+This is so popular that it’s on the menu of 99% of all websites.  It normally has the logo of the company and a series of links – depending on each website’s business logic.
 
 Here is an example of how a NavBar may look on a website:
 
